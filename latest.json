@@ -1,0 +1,10 @@
+{
+  "device"   : "RoIPN",
+  "version"  : "3.22.6-20260405",
+  "serial"   : "0602",
+  "filename" : "RoIPN-0602_3.22.6-20260405.roip",
+  "size"     : 1482936,
+  "plaintext_size": 1482880,
+  "build_date": "20260405",
+  "algo"     : "AES-256-CTR + HMAC-SHA256"
+}
