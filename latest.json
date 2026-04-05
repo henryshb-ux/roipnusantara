@@ -1,0 +1,10 @@
+{
+  "device"   : "RoIPN",
+  "version"  : "3.16.6-20260405",
+  "serial"   : "BF7D",
+  "filename" : "RoIPN-BF7D_3.16.6-20260405.roip",
+  "size"     : 1466216,
+  "plaintext_size": 1466160,
+  "build_date": "20260405",
+  "algo"     : "AES-256-CTR + HMAC-SHA256"
+}
